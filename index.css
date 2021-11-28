@@ -6,7 +6,7 @@ body{
     background-color: #c3e0fe;
 }
 .header{
-    background-color: #c3e0fe;
+    background-image: url("bg_blur.jpg");
 }
 .header img{
     width: 100%;
@@ -64,16 +64,21 @@ ul li{
     margin-top: 15px;
 }
 .hubungi{
-    background-image: url("bg_blur.jpg");
+    background-color: #c3e0fe;
     float: center;
     padding-bottom: 20px;
 }
-.hubungi h3{
+.hubungi p{
+    text-align: center;
+    font-size:large;
+}
+.hubungi h2{
     text-align: center;
     padding-top: 50px;
     line-height: 30px;
     padding-bottom: 50px;
     padding-top: 50px;
+    font-family: gagalin;
 }
 .hubungi a{
     margin-inline: 44%;
