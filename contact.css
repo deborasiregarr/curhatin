@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "gagalin";
+    src: url('Gagalin-Regular.ttf');
+}
+body{
+    background-color: #c3e0fe;
+}
+.header{
+    background-color: #c3e0fe;
+}
+.header img{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+}
+.top{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+}
+.rounded-circle{
+    background-color: #c3e0fe;
+}
+.contact{
+    text-transform:capitalize;
+    font-family: gagalin;
+    font-size: 30px;
+}
+.membership{
+    text-transform: uppercase;
+}
+.partner{
+    text-transform: uppercase;
+}
+.grafologi{
+    text-transform: uppercase;
+}
+p{
+    border: solid;
+    background-color: #c3e0fe;
+    border-radius: 10px;
+    border-color: #c3e0fe;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
