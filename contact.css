@@ -25,8 +25,13 @@ body{
     text-transform:capitalize;
     font-family: gagalin;
     font-size: 30px;
+    /* border: solid #c3e0fe ;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #c3e0fe; */
 }
-.membership{
+/* .membership{
     text-transform: uppercase;
 }
 .partner{
@@ -34,7 +39,7 @@ body{
 }
 .grafologi{
     text-transform: uppercase;
-}
+} */
 p{
     border: solid;
     background-color: #c3e0fe;
