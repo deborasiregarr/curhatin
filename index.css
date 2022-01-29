@@ -23,8 +23,16 @@ body{
 .container h4{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 p{
     text-align: justify;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-family: gagalin;
 }
 .expert{
     background-color: #c3e0fe;
@@ -40,8 +48,14 @@ p{
     object-fit: cover;
 }
 .expert img{
-    width: 150px;
+    width: 65%;
     margin-top: 15px;
+}
+.expert{
+    padding: 10px;
+}
+.expert h1{
+    padding: 50px;
 }
 ul li{
     text-align: justify;
@@ -84,10 +98,20 @@ ul li{
     font-weight: bold;
     background-color: #091353;
 }
+.hubungi a{
+    color: #fff;
+}
 .hubungi a:hover{
     background-color: #000;
+    color: #fff;
+    border: solid black ;
 }
-#contact{
+.hubungi a:link{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+}
+#contact {
     background-color: #aaa;
     padding-top: 50px;
     color: #000;
@@ -115,5 +139,8 @@ h4{
     margin-bottom: 30px;
     width: 100%;
     line-height: 50px;
+    font-family: gagalin;
+}
+h1{
     font-family: gagalin;
 }
